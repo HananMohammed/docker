@@ -36,3 +36,13 @@
         </code>
     </pre>
 </ol>
+
+## docker Compose
+### docker compose is utitlity comming with docker but not included inside docker 
+<ol>
+    <pre style=" padding: 16px;overflow: auto;font-size: 85%;background-color: #393f49;color: #ffffff;border-radius: 6px;">
+        <code>
+             <li>docker compose up -d</li>
+        </code>
+    </pre>
+</ol>
