@@ -46,3 +46,14 @@
         </code>
     </pre>
 </ol>
+
+## Docker Environments (Dev, Prod, ...)
+### Run project on multi development 
+<ol>
+    <pre style=" padding: 16px;overflow: auto;font-size: 85%;background-color: #393f49;color: #ffffff;border-radius: 6px;">
+        <code>
+             <li>docker compose  -f docker-compose.yml -f docker-compose.dev.yml up -d</li>
+             <li>to rebuild image add flag --build</li>
+        </code>
+    </pre>
+</ol>
